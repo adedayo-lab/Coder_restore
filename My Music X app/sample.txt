@@ -1,3 +1,0 @@
-writing some stuff in my text file
-
-This was written from my source code to create a note on my workspace folder
